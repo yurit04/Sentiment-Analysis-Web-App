@@ -1,2 +1,5 @@
-# Sentiment-Analysis-Web-App
-Udacity ML Engineer Project. Creating a sentiment analysis LSTM model using PyTorch based off IMDB review dataset and deploying on AWS using Amazon SageMaker. 
+# SageMaker Deployment Project
+
+The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
+
+Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
